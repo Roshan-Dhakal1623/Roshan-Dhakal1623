@@ -15,9 +15,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/roshan dhakal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roshan dhakal" height="30" width="40" /></a>
-<a href="https://fb.com/roshan dhakal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="roshan dhakal" height="30" width="40" /></a>
-<a href="https://instagram.com/roshandhakal16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="roshandhakal16" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/roshan-dhakal-05506a331" target="blank"><img align="center" src="www.linkedin.com/in/roshan-dhakal-05506a331" alt="roshan dhakal" height="30" width="40" /></a>
+<a href="[https://fb.com/roshan dhakal](https://www.facebook.com/unikboy.roshandhakal)" target="blank"><img align="center" src="https://www.facebook.com/unikboy.roshandhakal" alt="roshan dhakal" height="30" width="40" /></a>
+<a href="https://www.instagram.com/roshandhakal16/" target="blank"><img align="center" src="https://www.instagram.com/roshandhakal16/" alt="roshandhakal16" height="30" width="40" /></a>
 <a href="https://discord.gg/zeonroshan3839" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="zeonroshan3839" height="30" width="40" /></a>
 </p>
 
